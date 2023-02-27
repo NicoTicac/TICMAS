@@ -7,3 +7,5 @@ Además utiliza JS para las transiciones/efectos visuales, para el menú de nave
 ```
 http://www.referentetic.com
 ```
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
