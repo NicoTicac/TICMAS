@@ -7,7 +7,7 @@ Además utiliza JS como ejemplo de cálculo del año actual al pie de página. <
 Se presenta un curriculum vitae abreviado, tomando como referencia categorías de información personal, formación, experiencia y habilidades. Como framework se siguen las recomendaciones dadas en el cursado, haciendo uso W3.CSS, el cual fue modificado (TIC.css) para adaptarlo al proyecto actual y adjuntado de modo local. <br />
 El sitio está disponible en:
 ```
-http://www.referentetic.com
+https://NicoTicac.github.io
 ```
 
 ## Tecnologías utilizadas
