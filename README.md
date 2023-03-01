@@ -11,5 +11,5 @@ http://www.referentetic.com
 ```
 
 ## Tecnologías utilizadas
-HTML | CSS | JavaScript
+HTML | CSS | JavaScript <br />
 Framework: W3.CSS modificado de licencia libre.
