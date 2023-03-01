@@ -12,4 +12,4 @@ http://www.referentetic.com
 
 ## Tecnologías utilizadas
 HTML | CSS | JavaScript <br />
-Framework: W3.CSS modificado de licencia libre.
+Framework: W3.CSS modificado de licencia libre disponible en este repositorio en ./css/TIC.css
